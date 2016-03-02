@@ -3,3 +3,6 @@ Another log message #2
 Testing of the logging system! #3
 Foo Bar test message - Awesomeness #4
 Fifth and final test message in the file #5
+Configuration reload request received, reloading configuration;
+Deleting interface #24 vethabbaf03, fe80::a0fe:faff:fe8c:b9fd#123, interface
+This is a test of the emergency broadcast system! ACK!
